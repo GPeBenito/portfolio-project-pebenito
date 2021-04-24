@@ -18,7 +18,7 @@ h1 {
     font-size:96px;
 }
 h2{
-    font-size: 64px;
+    font-size: 56px;
 }
 
 p{
@@ -85,5 +85,14 @@ p{
     .project-description{
         padding: 0;
         text-align: center;
+    }
+}
+
+@media (min-width:960px) {
+    h2{
+        margin-top:-100px;
+    }
+    .react-image{
+        margin-top: 30px;;
     }
 }
