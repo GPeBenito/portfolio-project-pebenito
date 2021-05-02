@@ -39,7 +39,7 @@ p{
 .hero{
     background: var(--secondary-branding-color);
     text-align:center;
-    padding: 160px 20px;
+    padding: 60px 20px;
 }
 .hero-title{
     color: var(--light-branding-color);
@@ -186,7 +186,7 @@ footer .social-links a:hover{
         font-size: 44px;
     }
     .hero{
-        padding: 80px 20px;
+        padding: 40px 20px;
     }
     .project-description{
         padding: 0;
